@@ -10,6 +10,6 @@
   "author": "ahmadysalah <a.ahmad.salah@gmail.com>",
   "license": "ISC",
   "bin" : {
-    "wifiPhone" : "index.js"
+    "android" : "index.js"
 }
 }
