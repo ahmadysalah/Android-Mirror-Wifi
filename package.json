@@ -1,0 +1,15 @@
+{
+  "name": "scrcpy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "link npm"
+  },
+  "keywords": [],
+  "author": "ahmadysalah <a.ahmad.salah@gmail.com>",
+  "license": "ISC",
+  "bin" : {
+    "wifiPhone" : "index.js"
+}
+}
