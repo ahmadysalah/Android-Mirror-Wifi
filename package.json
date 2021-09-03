@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "link npm"
+    "start": "chmod +x index.js ; link npm"
   },
   "keywords": [],
   "author": "ahmadysalah <a.ahmad.salah@gmail.com>",
