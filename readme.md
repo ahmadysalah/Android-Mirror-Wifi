@@ -20,8 +20,6 @@
 
 ` npm start `
 
-3- npm start
-
 4- insert your password 
 
 ---
