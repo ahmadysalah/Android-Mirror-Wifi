@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-// connect device and make sure enabeled the adb and wifi 
-// sadb also before excute the app
+// connect device and make sure enabled the adb and wifi 
+// adb also before execute the app
 
 const { exec } = require("child_process");
 const { setTimeout } = require("timers");
